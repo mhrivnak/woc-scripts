@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# CSV that could contain member data
+*.csv
+
+# vim
+*.swp
